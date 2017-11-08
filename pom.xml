@@ -3,6 +3,8 @@
   <groupId>kogan</groupId>
   <artifactId>brains</artifactId>
   <version>1.0</version>
+  <packaging>jar</packaging>
+  
   
   <name>brains</name>
   <description>brains</description>
