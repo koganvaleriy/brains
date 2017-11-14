@@ -13,6 +13,6 @@
 	<bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
 		<property name="entityManagerFactory" ref="emf" />
 	</bean>
-	<bean class="kogan.herokuresttest.dao.AccountsOrm"></bean>
+	<bean class="kogan.brains.dao.UsersOrm"></bean>
 	
 </beans>
